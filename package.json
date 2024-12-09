@@ -9,11 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
-  "devDependencies": {
-    "fs": "^0.0.1-security",
+  "dependencies": {
+    "advent-of-code-2024": "file:",
     "lodash": "^4.17.21"
   },
-  "dependencies": {
+  "devDependencies": {
+    "fs": "^0.0.1-security"
   }
 }
